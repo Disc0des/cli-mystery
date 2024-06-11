@@ -8,6 +8,6 @@ Remember that the `cat` command was originally intended for concatenating files.
 
 How many membership cards were in the wallet? Can you automatically count if the suspect has all of them using `grep`, `wc` commands and the pipe operator?
 
-If you managed to narrow your investigation down to one suspect, read the `solution` file to verify that you have found the killer and move on to 'step7'
+If you managed to narrow your investigation down to one suspect, re-join the main call and deliver the name of the murderer!
 
 If not, retrace your steps until there is only one suspect.
